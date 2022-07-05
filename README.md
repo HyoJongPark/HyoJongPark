@@ -30,5 +30,5 @@ I'm working to be a steadily growing backend developer.
 
 <h3>✍🏻 Dev log</h3>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=HyoJong&theme=vue&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=HyoJongPark&theme=vue&show_icons=true)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=cefb9d&height=200&section=footer)
