@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=cefb9d&reversal=true&height=200&section=header&text=welcome&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=박효종's%20GitHub%20Profile&descAlignY=65&descAlign=70)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hyojong&fontAlign=80&fontAlignY=40&color=gradient)
 
-<h3 align="center"> Hi there 😆</h3>
 <p align="center">
 I'm working to be a steadily growing backend developer.
 </p>
@@ -28,7 +27,7 @@ I'm working to be a steadily growing backend developer.
   </a>
 </p>
 
-<h3>✍🏻 Dev log</h3>
+<h3 align="center">•••</h3>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=HyoJongPark&theme=vue&show_icons=true)
-![footer](https://capsule-render.vercel.app/api?type=waving&color=cefb9d&height=200&section=footer)
+<p align="center">
+<img style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=phj2784"/>
